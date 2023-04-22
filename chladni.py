@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # Define the number of points in the grid (Resolution)
-N = 100
+N = 500
 
 # Create the grid
 plate_size = 1.5
