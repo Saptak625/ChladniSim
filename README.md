@@ -2,7 +2,7 @@
 A Simple Python Simulation of various Chladni Figures.
 
 ## About Color Scale
-The color indicating 0 (dark violet) indicates the nodes of the Chladni plot, or where the particles following the Chladni waveform would tend to. The white represents the maxima and minima vibration peaks in the plot. If the white region is surrounded by red, this indicates a peak. If the white region is surrounded by blue, this indicates a trough.
+The color indicating zero amplitude (dark violet) indicates the nodes of the Chladni plot, or where the particles following the Chladni waveform would tend to. The white represents the maxima and minima vibration peaks in the plot. If the white region is surrounded by red, this indicates a peak. If the white region is surrounded by blue, this indicates a trough.
 
 The Chladni plots generated represent a snapshot of the waveform at a certain instant of time, but in reality the waveform would oscillate in a periodic fashion (old peaks turn into new troughs and old troughs turn into new peaks).
 
